@@ -1,8 +1,14 @@
 
 
 p {
-  color: tomatoe;
+  margin-left: 20px;
+  color: navy;
  }
+
+ul {
+  margin-left: 40px;
+}
+
 
 h1 {
   text-align: center; 
