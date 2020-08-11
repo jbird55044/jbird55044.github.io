@@ -34,16 +34,17 @@
 }	
 
 h1 {
-  text-align: center; 
   color: black;
   font-size:26px
-  font-variant: small-caps;
+  font-variant: small-caps;	
+}
+
+h1.center {
+  text-align: center; 
 }
 
 
 h2 {
-  text-align: left; 
-  color: black;
   font-size:14px; 
 }
 
