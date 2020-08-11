@@ -65,12 +65,12 @@ h2 {
 }
 
 p.company_title {
-  font: bold;
+  font-weight: bold;
 }
 
 p.job_title {
-  font: bold;
-  font: underline;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 
