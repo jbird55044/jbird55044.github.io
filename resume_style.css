@@ -26,16 +26,16 @@
   /*padding: 5px;*/
 }	
 
-.column {
+.column_two {
   float: left;
   padding: 10px;
 }	
 
-.left {
+column_two.left {
   width: 25%;
 }
 
-.right {
+column_two.right {
   width: 70%;
 }
 
