@@ -46,9 +46,10 @@ h2.row:after {
   clear: both;
 }
 
-#pro_summary {
+#pro_category {
   margin-left: 20px;
   color: navy;
+  font-variant: small-caps;
 }
 
 #pro_bullets {
