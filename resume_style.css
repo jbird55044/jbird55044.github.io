@@ -1,5 +1,19 @@
 
 
+h1 {
+  text-align: center; 
+  color: black;
+  font-size:26px
+  font-variant: small-caps;
+}
+
+h2 {
+  text-align: left; 
+  color: black;
+  font-size:12px; 
+}
+
+
 p {
   margin-left: 20px;
   color: navy;
@@ -9,20 +23,6 @@ ul {
   margin-left: 40px;
 }
 
-
-h1 {
-  text-align: center; 
-  color: black;
-  font-size:26px
-  font-variant: small-caps;
-}
-}
-
-h2 {
-  text-align: left; 
-  color: black;
-  font-size:12px; 
-}
 
 .center {
   margin: auto;
