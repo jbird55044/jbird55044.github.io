@@ -2,6 +2,16 @@
   max-width: 800px;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 h1 {
   text-align: center; 
@@ -37,4 +47,4 @@ ul {
   padding: 10px;
 }
 
-' https://www.w3schools.com/css/default.asp
+/* https://www.w3schools.com/css/default.asp */
