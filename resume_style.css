@@ -69,7 +69,8 @@ h1.center {
 
 
 h2 {
-  font-size:14px; 
+  font-size:14px;
+  padding: 1px;
 }
 
 p.company_title {
