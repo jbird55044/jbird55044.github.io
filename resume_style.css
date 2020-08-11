@@ -46,19 +46,14 @@ h2 {
 }
 
 
-h2.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
-#pro_category {
+.pro_category {
   margin-left: 20px;
   color: navy;
   font-variant: small-caps;
 }
 
-#pro_bullets {
+.pro_bullets {
   margin-left: 40px;
   color: red;
 }
