@@ -82,6 +82,13 @@ p.job_title {
   text-decoration: underline;
 }
 
+p.achievements  {
+  font-weight: bold;
+}
+
+p.company_desc {
+  xt-decoration: italic;
+}
 
 .green {
   color: green;
