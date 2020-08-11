@@ -25,6 +25,12 @@
   clear: both;
 }
 
+.2columns {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}	
+
 h1 {
   text-align: center; 
   color: black;
