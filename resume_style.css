@@ -2,12 +2,12 @@
   max-width: 800px;
 }
 
-.column {
+h2.column {
   float: left;
   width: 33.33%;
 }
 
-.row:after {
+h2.row:after {
   content: "";
   display: table;
   clear: both;
