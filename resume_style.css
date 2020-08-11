@@ -87,7 +87,7 @@ p.achievements  {
 }
 
 p.company_desc {
-  xt-decoration: italic;
+  font-style: italic;
 }
 
 .green {
