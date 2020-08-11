@@ -44,13 +44,12 @@ h1 {
 h2 {
   text-align: left; 
   color: black;
-  font-size:12px; 
+  font-size:14px; 
 }
 
 
 
 .pro_category {
-  margin-left: 20px;
   color: navy;
   font-variant: small-caps;
 }
