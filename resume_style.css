@@ -39,18 +39,19 @@ h2.row:after {
   clear: both;
 }
 
-#PRO_SUMMARY {
+#pro_summary {
   margin-left: 20px;
   color: navy;
+}
+
+#pro_bullets {
+  margin-left: 40px;
+  color: red;
 }
 
 
 .green {
   color: green;
-}
-
-ul {
-  margin-left: 40px;
 }
 
 
