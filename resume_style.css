@@ -1,5 +1,5 @@
 
-#resume {
+.resume {
 	max-width: 1200px;
 	margin-top: 20px;
 	margin-left: 50px;
@@ -13,17 +13,19 @@
 	text-align: left;
 }
 
-.3columns {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-}	
 
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
+
+.3columns {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}	
+
 
 .2columns {
   float: left;
