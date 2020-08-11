@@ -20,19 +20,24 @@
   clear: both;
 }
 
-
-.column3 {
+.column_three {
   float: left;
   width: 30%;
   padding: 5px;
 }	
 
-
-.column2 {
+.column_two {
   float: left;
-  width: 40%;
   padding: 5px;
 }	
+
+.column_two.left {
+  width: 25%;
+}
+
+.column_two.right {
+  width: 75%;
+}
 
 
 .pro_category {
