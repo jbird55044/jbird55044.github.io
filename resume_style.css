@@ -39,16 +39,15 @@ h2.row:after {
   clear: both;
 }
 
+#PRO_SUMMARY {
+  margin-left: 20px;
+  color: navy;
+}
+
 
 .green {
   color: green;
 }
-
-
-p {
-  margin-left: 20px;
-  color: navy;
- }
 
 ul {
   margin-left: 40px;
