@@ -5,7 +5,7 @@
 	margin-left: 50px;
 	margin-right: 50px;
 
-	/*padding: 10px 50px 10px 50px;*/
+	padding: 20px 20px 20px 20px;*/
 
 	border-radius: 15px;
 	background-color: #C4CECD;
@@ -46,13 +46,15 @@ column_two.right {
 }
 
 .base_text {
-  margin-left: 20px;
+  margin-left: 40px;
   color: green;
+  padding: 5px;
 }
 
 .base_bullets {
-  margin-left: 40px;
+  margin-left: 80px;
   color: red;
+  padding: 5px;
 }
 
 h1 {
