@@ -57,7 +57,7 @@
   padding: 5px;
 }
 
-h1 {
+.h1 {
   color: black;
   font-size:26px
   font-variant: small-caps;	
@@ -68,9 +68,13 @@ h1.center {
 }
 
 
-h2 {
+.h2 {
   font-size:14px;
   padding: 1px;
+}
+
+.p {
+  padding: 0px;
 }
 
 p.company_title {
