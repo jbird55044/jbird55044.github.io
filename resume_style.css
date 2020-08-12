@@ -61,7 +61,6 @@
 
 .h1 {
   color: black;
-  font-size: large
   font-variant-caps: small-caps;	
 }
 
@@ -69,6 +68,11 @@
   font-size: medium;
 }
 
+.h3 {
+  color: black;
+  font-variant-caps: small-caps;	
+}
+	
 .p {
   font-size: small;
 }
