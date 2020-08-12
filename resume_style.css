@@ -121,6 +121,9 @@ p.company_desc {
   text-align: center; 
 }
 
+.bold {
+  font-weight: bold; 
+}
 
 
 /* https://www.w3schools.com/css/default.asp */
