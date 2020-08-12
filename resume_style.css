@@ -21,23 +21,34 @@
   clear: both;
 }
 
-.column_three {
+.three_column {
   float: left;
-  width: 32%;
   /*padding: 5px;*/
-}	
+}
 
-.column_two {
+.left_three_column {
+  width: 33%;
+}
+
+.center_three_column {
+  width: 25%;
+}
+
+.right_three_column {
+  width: 33%;
+}
+
+.two_column {
   float: left;
   padding: 10px;
 }	
 
-.left_column_two {
+.left_two_column {
   width: 25%;
   margin-left: 40px;
 }
 
-.right_column_two {
+.right_two_column {
   width: 65%;
 }
 
