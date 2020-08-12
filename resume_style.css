@@ -23,7 +23,7 @@
 
 .three_column {
   float: left;
-  /*padding: 5px;*/
+  padding: 0px;
 }
 
 .left_three_column {
@@ -81,7 +81,7 @@
 }
 
 .h3 {
-  font-size: 1.2em;
+  font-size: 1.17em;
   font-variant-caps: small-caps;
   padding: 0px;
 }
