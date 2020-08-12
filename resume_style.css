@@ -80,8 +80,8 @@
 }
 
 .h3 {
+  font-variant-caps: small-caps;
   color: black;
-  font-variant-caps: small-caps;	
 }
 	
 .p {
@@ -89,8 +89,8 @@
 }
 
 p.company_title {
-  padding: 20px
   font-weight: bold;
+  padding: 20px
 }
 
 p.job_title {
