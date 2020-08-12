@@ -27,15 +27,15 @@
 }
 
 .left_three_column {
-  width: 33%;
-}
-
-.center_three_column {
   width: 25%;
 }
 
+.center_three_column {
+  width: 30%;
+}
+
 .right_three_column {
-  width: 33%;
+  width: 35%;
 }
 
 .two_column {
