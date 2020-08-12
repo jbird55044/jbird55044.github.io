@@ -48,30 +48,30 @@
 
 .base_text {
   margin-left: 40px;
-  color: green;
+  color: black;
   padding: 0px;
 }
 
 .base_bullets {
   margin-left: 80px;
-  color: red;
+  color: black;
   padding: 0px;
 }
 
 .h1 {
   color: black;
-  font-size:22px
+  font-size: 22px
   font-family: "Times New Roman", Times, serif;
   font-variant: small-caps;	
 }
 
 .h2 {
-  font-size:14px;
+  font-size: 14px;
   font-family: "Times New Roman", Times, serif; 
 }
 
 .p {
-  font-size:12px;
+  font-size: 12px;
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -94,6 +94,10 @@ p.company_desc {
 
 .green {
   color: green;
+}
+
+.red {
+  color: red;
 }
 
 .center {
