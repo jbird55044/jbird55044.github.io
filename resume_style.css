@@ -49,34 +49,30 @@
 .base_text {
   margin-left: 40px;
   color: green;
-  padding: 5px;
+  padding: 0px;
 }
 
 .base_bullets {
   margin-left: 80px;
   color: red;
-  padding: 5px;
+  padding: 0px;
 }
 
 .h1 {
   color: black;
-  font-size:24px
+  font-size:22px
+  font-family: "Times New Roman", Times, serif;
   font-variant: small-caps;	
 }
 
-h1.center {
-  text-align: center; 
-}
-
-
 .h2 {
-  font-size:12px;
-  padding: 1px;
+  font-size:14px;
+  font-family: "Times New Roman", Times, serif; 
 }
 
 .p {
-  padding: 0px;
   font-size:12px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 p.company_title {
@@ -100,6 +96,9 @@ p.company_desc {
   color: green;
 }
 
+.center {
+  text-align: center; 
+}
 
 
 
