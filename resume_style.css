@@ -11,6 +11,7 @@
 	background-color: #C4CECD;
 
 	text-align: left;
+	font-family: "Times New Roman", Times, serif;
 }
 
 
@@ -60,19 +61,16 @@
 
 .h1 {
   color: black;
-  font-size: 22px
-  font-family: "Times New Roman", Times, serif;
+  font-size: 12px
   font-variant: small-caps;	
 }
 
 .h2 {
-  font-size: 14px;
-  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px;
 }
 
 .p {
   font-size: 12px;
-  font-family: "Times New Roman", Times, serif;
 }
 
 p.company_title {
