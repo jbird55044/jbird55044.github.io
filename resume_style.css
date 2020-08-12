@@ -55,6 +55,7 @@
 .pro_category {
   color: purple;
   font-variant: small-caps;
+  padding-top: 40px;
 }
 
 .base_text {
